@@ -12,7 +12,7 @@
 
 <br>
 
-  <div>
-    <a href="https://github.com/cleberabreu87">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberabreu87&layout=compact&langs_count=7&theme=dracula"/>
-  </a></div>
+<div>
+  <a href="https://github.com/cleberabreu87">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberabreu87&layout=compact&langs_count=7&theme=dracula"/>
+</a></div>
