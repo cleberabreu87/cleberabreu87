@@ -3,7 +3,6 @@
 <br>
 
 - 📖 Atualmente curso Análise e Desenvolvimento de Sistemas na faculdade [Uninassau](https://www.uninassau.edu.br/);
-- 🌱 Estou focando os estudos em Desenvolvimento Web, com a intenção de me tornar um desenvolvedor Front-end;
 - 🔭 Trabalho como Analista de Suporte Técnico na empresa [Inforplus Sistemas](https://www.inforplus.com.br/);
 
 <p>Seguem meus contatos:</p>
