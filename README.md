@@ -2,8 +2,9 @@
 
 <br>
 
-- 📖 Atualmente curso Análise e Desenvolvimento de Sistemas na faculdade [Uninassau](https://www.uninassau.edu.br/);
+- 📖 Atualmente sou formado em Análise e Desenvolvimento de Sistemas na faculdade [Uninassau](https://www.uninassau.edu.br/);
 - 🔭 Trabalho como Analista de Suporte Técnico na empresa [Inforplus Sistemas](https://www.inforplus.com.br/);
+- 🎯 Tenho focado meus estudos em Desenvolvimento Web Front-end.
 
 <p>Seguem meus contatos:</p>
 <a href="https://www.linkedin.com/in/cleber-souza-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
