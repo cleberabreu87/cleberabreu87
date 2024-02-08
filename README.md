@@ -2,7 +2,7 @@
 
 <br>
 
-- 📖 Atualmente sou formado em Análise e Desenvolvimento de Sistemas na faculdade [Uninassau](https://www.uninassau.edu.br/);
+- 📖 Sou formado em Análise e Desenvolvimento de Sistemas no [Centro Universitário Maurício de Nassau (Uninassau)](https://www.uninassau.edu.br/);
 - 🔭 Trabalho como Analista de Suporte Técnico na empresa [Inforplus Sistemas](https://www.inforplus.com.br/);
 - 🎯 Tenho focado meus estudos em Desenvolvimento Web Front-end.
 
