@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/cleber-souza-abreu/" target="_blank">LinkedIn</a>
 
-<a href = "mailto:cleber@consultec.dev.br" target="_blank">E-Mail</a>
+<a href = "mailto:cleber.souza.abreu@gmail.com" target="_blank">E-Mail</a>
 
 <br>
 
