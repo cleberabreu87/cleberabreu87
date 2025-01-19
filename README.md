@@ -3,8 +3,8 @@
 <br>
 
 - 📖 Sou formado em Análise e Desenvolvimento de Sistemas no [Centro Universitário Maurício de Nassau (Uninassau)](https://www.uninassau.edu.br/);
-- 🔭 Trabalho como Analista de Suporte Técnico na empresa [Inforplus Sistemas](https://www.inforplus.com.br/);
-- 🎯 Tenho focado meus estudos em Desenvolvimento Web Front-end.
+- 🔭 Trabalho como Analista de Negócios na empresa [NC Soluções](https://www.ncsolucoes.com.br/);
+- 🎯 Tenho focado meus estudos em Desenvolvimento Web Fullstack.
 
 <p>Seguem meus contatos:</p>
 
