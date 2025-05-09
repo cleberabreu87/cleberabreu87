@@ -2,7 +2,7 @@
 
 <br>
 
-- 📖 Sou formado em Análise e Desenvolvimento de Sistemas no [Centro Universitário Maurício de Nassau (Uninassau)](https://www.uninassau.edu.br/);
+- 📖 Sou estudante de Pós-graduação dos cursos de Desenvolvimento em Aplicações Web, Banco de Dados e Desenvolvimento de Aplicações para dispositivos Móveis na [Faculdade De Minas (Facuminas)](https://facuminasead.com.br/);
 - 🔭 Trabalho como Analista de Negócios na empresa [NC Soluções](https://www.ncsolucoes.com.br/);
 - 🎯 Tenho focado meus estudos em Desenvolvimento Web Fullstack.
 
