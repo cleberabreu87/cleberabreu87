@@ -2,7 +2,7 @@
 
 <br>
 
-- 📖 Sou estudante de Pós-graduação dos cursos de Desenvolvimento em Aplicações Web, Banco de Dados e Desenvolvimento de Aplicações para dispositivos Móveis na [Faculdade De Minas (Facuminas)](https://facuminasead.com.br/);
+- 📖 Sou estudante de Pós-graduação dos cursos de Desenvolvimento em Aplicações Web, Banco de Dados e Desenvolvimento de Aplicações para dispositivos Móveis na [Faculdade de Minas (Facuminas)](https://facuminasead.com.br/);
 - 🔭 Trabalho como Analista de Negócios na empresa [NC Soluções](https://www.ncsolucoes.com.br/);
 - 🎯 Tenho focado meus estudos em Desenvolvimento Web Fullstack.
 
