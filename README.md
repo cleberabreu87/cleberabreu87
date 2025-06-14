@@ -9,7 +9,7 @@
 
 <p>Seguem meus contatos:</p>
 
-<a href = "mailto:cleber.souza.abreu@gmail.com" target="_blank">E-Mail</a>
+<a href = "mailto:cleber.souza.abreu@outlook.com.br" target="_blank">E-Mail</a>
 
 <br>
 
