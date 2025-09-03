@@ -4,9 +4,6 @@
 
 <p>Graduado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência em TI e atualmente em transição para o desenvolvimento de software. Estudando e aplicando tecnologias como React, Next.js, Node.js, TypeScript e PostgreSQL, com foco em aplicações Full Stack, Mobile e Desktop. Busco minha primeira oportunidade prática como dev, com muita disposição para aprender e crescer na área.</p>
 
-- 🔭 Trabalho como Analista de Negócios na empresa [NC Soluções](https://www.ncsolucoes.com.br/);
-- 🎯 Tenho focado meus estudos em Desenvolvimento Web Fullstack.
-
 <p>Seguem meus contatos:</p>
 
 <a href = "mailto:cleber.souza.abreu@outlook.com.br" target="_blank">E-Mail</a>
