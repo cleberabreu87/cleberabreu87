@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Graduado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência em TI e atualmente em transição para o desenvolvimento de software. Estudando e aplicando tecnologias como React, Next.js, Node.js, TypeScript e PostgreSQL, com foco em aplicações Full Stack, Mobile e Desktop. Busco minha primeira oportunidade prática como dev, com muita disposição para aprender e crescer na área.</p>
+<p>Graduado em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência em TI e atualmente em transição para o desenvolvimento de software. Busco minha primeira oportunidade prática como desenvolvedor, com muita disposição para aprender e crescer na área.</p>
 
 <p>Segue meu currículo:</p>
 
