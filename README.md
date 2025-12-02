@@ -6,7 +6,7 @@
 
 <p>Segue meu currículo:</p>
 
-<a href = "https://cleberabreu87.github.io/cleber.souza.abreu/" target="_blank">Currículo</a>
+<a href = "https://cleberabreu87.github.io/curriculo/" target="_blank">Currículo</a>
 
 <br>
 
